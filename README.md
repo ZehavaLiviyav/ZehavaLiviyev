@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+About Me 👋 
+Hi, I’m Zehava Liviyev. 
+👀 I work well as part of a team, willing to learn, explore and acquire experience.
+🌱 I’m currently learning computer science, 3rd year student at The College of Management Academic Studies. 
+📫 Reach me on my email : Zehava4130@gmail.com Linkdin : zehava liviyev
