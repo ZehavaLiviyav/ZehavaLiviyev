@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **ZehavaLiviyev/ZehavaLiviyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-About Me 👋 
-Hi, I’m Zehava Liviyev. 
-👀 I work well as part of a team, willing to learn, explore and acquire experience.
+Hi 👋 
+I’m Zehava Liviyev. 
+🎓 3rd. year Computer Science student
+💪 I work well as part of a team, willing to learn, explore and acquire experience.
 🌱 I’m currently learning computer science, 3rd year student at The College of Management Academic Studies. 
 📫 Reach me on my email : Zehava4130@gmail.com Linkdin : zehava liviyev
