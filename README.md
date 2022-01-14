@@ -7,6 +7,6 @@ I’m Zehava Liviyev.
 💪 I work well as part of a team, willing to learn, explore and acquire experience.
 
 
-📫 Reach me :
+📫 Reach me 
 
  📧 Zehava4130@gmail.com ,  Linkdin : zehava liviyev
