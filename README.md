@@ -1,12 +1,18 @@
-### Hi 👋 
+                                       Hi! 👋, I'm Zehava Liviyev
 
-I’m Zehava Liviyev. 
+💬 About me ...
+-
+- 3rd. year Computer Science student 
+- Auto-didact, hard-worker, team player.
+- Looking for a Full-Stack developers position
 
-🎓 3rd. year Computer Science student
+🌱 I’m currently learning ...
+- 
+  Full Stack development 
+  
+  
+  📫 How to reach me: ...
+-
+<a href="https://www.linkedin.com/in/zehava-liviyev-23006a202/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"  /></a>
 
-💪 I work well as part of a team, willing to learn, explore and acquire experience.
-
-
-📫 Reach me 
-
- 📧 Zehava4130@gmail.com ,  Linkdin : zehava liviyev
+📨 zehava4130@gmail.com
