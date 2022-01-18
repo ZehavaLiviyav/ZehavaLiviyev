@@ -4,12 +4,10 @@
 * 🎓 3rd. year Computer Science student
 * 💻 Looking for a role as Full-Stack developer to absorb knowledge
 * 💪 Ambitious and passionate to learn new stuff and expand my knowledge
+
 <br/>
 
-## 👩‍💻 I’m currently learning 
-* Full Stack development 
-  
-  
+
   
   
 ## 🛠 Languages and Tools
