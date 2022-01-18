@@ -4,11 +4,8 @@
 * 🎓 3rd. year Computer Science student
 * 💻 Looking for a role as Full-Stack developer to absorb knowledge
 * 💪 Ambitious and passionate to learn new stuff and expand my knowledge
-
+<!--*  👩‍💻 Currently learning Full Stack development -->
 <br/>
-
-
-  
   
 ## 🛠 Languages and Tools
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
