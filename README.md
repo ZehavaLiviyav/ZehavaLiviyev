@@ -1,7 +1,7 @@
                                        Hi! 👋, I'm Zehava Liviyev
 
 ## 📖 About me
-* 🎓 3rd. year Computer Science student
+* 🎓 Bachelor of Science in Computer Science
 * 💻 Looking for a role as Full-Stack developer to absorb knowledge
 * 💪 Ambitious and passionate to learn new stuff and expand my knowledge
 <!--*  👩‍💻 Currently learning Full Stack development -->
