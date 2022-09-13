@@ -1,8 +1,8 @@
                                        Hi! 👋, I'm Zehava Liviyev
 
 ## 📖 About me
-* 🎓 Bachelor of Science in Computer Science
-* 💻 Looking for a role as Full-Stack developer to absorb knowledge
+
+* 💻 Software Developer Engineer at CEVA, Inc.
 * 💪 Ambitious and passionate to learn new stuff and expand my knowledge
 <!--*  👩‍💻 Currently learning Full Stack development -->
 <br/>
